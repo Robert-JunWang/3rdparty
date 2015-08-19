@@ -6,4 +6,5 @@
 .AppleDouble
 .LSOverride
 
-ios/framework
+ios/framework/boost.framework
+ios/framework/opencv2.framework
